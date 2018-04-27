@@ -4,10 +4,11 @@ body{
 
 form{
     margin: auto;
-    margin-top: 10%;
+    margin-top: 8%;
     background: #CCFFFF;
-    width: 30%;
+    width: 25%;
     padding: 15px;
+    box-shadow: 0 2px 5px 2px #006633;
 }
 form newform{
     display: inline-block;
