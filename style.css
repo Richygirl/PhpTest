@@ -1,0 +1,34 @@
+body{
+    background: #00CC66;
+}
+
+form{
+    margin: auto;
+    margin-top: 10%;
+    background: #CCFFFF;
+    width: 30%;
+    padding: 15px;
+}
+form newform{
+    display: inline-block;
+    width: 80%;
+}
+label{
+    display: block;
+    text-align: center;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+form input, textarea{
+    padding: 3px;
+    width: 100%;
+    font-size: 16px;
+}
+input{
+    height: 25px;
+}
+
+
+
+
